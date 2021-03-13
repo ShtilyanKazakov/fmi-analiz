@@ -1,39 +1,18 @@
 package classes;
 
-/**
- * 
- */
 public class Aircraft {
 
-    /**
-     * Default constructor
-     */
     public Aircraft() {
     }
 
-    /**
-     * 
-     */
     private String TailNumber;
 
-    /**
-     * 
-     */
     private String AircraftType;
 
-    /**
-     * 
-     */
     private int PaxCapacity;
 
-    /**
-     * 
-     */
     private int CargoCapicity;
 
-    /**
-     * 
-     */
     public User user;
 
     /**

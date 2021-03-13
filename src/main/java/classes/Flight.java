@@ -1,52 +1,23 @@
 package classes;
 import java.util.*;
 
-/**
- * 
- */
 public class Flight {
 
-    /**
-     * Default constructor
-     */
     public Flight() {
     }
 
-    /**
-     * 
-     */
     private Aircraft Aircraft;
 
-    /**
-     * 
-     */
     private Airport DepartureAirport;
 
-    /**
-     * 
-     */
     private Airport ArrivalAirport;
 
-    /**
-     * 
-     */
     private Date DepartureDate;
 
-    /**
-     * 
-     */
     private Date ArrivalDate;
 
-
-
-    /**
-     * 
-     */
     public Aircraft aircraft;
 
-    /**
-     * 
-     */
     public Airport airport;
 
     /**

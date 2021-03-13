@@ -1,32 +1,16 @@
 package classes;
 import java.util.*;
 
-/**
- * 
- */
 public class User {
-
-    /**
-     * Default constructor
-     */
+	
     public User() {
     }
 
-    /**
-     * 
-     */
     private String Username;
 
-    /**
-     * 
-     */
     private String Password;
 
-    /**
-     * 
-     */
     private String Email;
-
 
     /**
      * @return

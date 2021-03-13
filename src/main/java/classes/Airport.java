@@ -1,42 +1,20 @@
 package classes;
 import java.util.*;
 
-/**
- * 
- */
 public class Airport {
 
-    /**
-     * Default constructor
-     */
     public Airport() {
     }
 
-    /**
-     * 
-     */
     private String ICAOCode;
 
-    /**
-     * 
-     */
     private String IATACode;
 
-    /**
-     * 
-     */
     private String Name;
 
-    /**
-     * 
-     */
     private String City;
 
-    /**
-     * 
-     */
     private String Country;
-
 
     /**
      * @return
